@@ -1,0 +1,14 @@
+READ
+----
+
+ Purpose : A brief excersize in TCP.
+
+ Part 1
+    Scope : Given a hostname and a port a valid instance of Read can be created
+    Class methods implemented : main
+    Instance methods implemented : hostname , port , valid?
+
+ Part 2:
+    Scope : Given a valid instance of Read
+    Instance methods implemented : get
+    RSpec concepts used : mock
